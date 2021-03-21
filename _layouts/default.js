@@ -8,7 +8,6 @@ export default function DefaultLayout(props){
             <Head>
                 <title>{props.title}</title>
                 <meta name='description' content={props.description}/>
-                <link rel='stylesheet' href='/style.css'/>
             </Head>
             <Header/>
             {props.children}

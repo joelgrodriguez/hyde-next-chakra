@@ -12,6 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@chakra-ui/react": "^1.4.0",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^11.1.5",
+    "framer-motion": "^4.0.0",
     "gray-matter": "^4.0.2",
     "js-yaml": "^3.13.1",
     "marked": "^0.8.2",
