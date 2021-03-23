@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Preventive Maintenance",
+    "description": "",
+    "icon": "img/icons/maintenance.svg"
+  },
+  {
+    "title": "Vehicle Analysis & Inspections",
+    "description": "",
+    "icon": "img/icons/inspections.svg"
+  },
+  {
+    "title": "A/C, Cooling & Heating",
+    "description": "",
+    "icon": "img/icons/cool-heat.svg"
+  },
+  {
+    "title": "Vehicle Drivetrain",
+    "description": "",
+    "icon": "img/icons/drivetrain.svg"
+  },
+  {
+    "title": "Electrical Systems",
+    "description": "",
+    "icon": "img/icons/electrical.svg"
+  },
+  {
+    "title": "Fuel & Emissions Systems",
+    "description": "",
+    "icon": "img/icons/emissions.svg"
+  },
+  {
+    "title": "Performance Upgrades",
+    "description": "",
+    "icon": "img/icons/performance.svg"
+  },
+  {
+    "title": "Tire & Wheel Service",
+    "description": "",
+    "icon": "img/icons/tires.svg"
+  },
+  {
+    "title": "Exhaust System",
+    "description": "",
+    "icon": "img/icons/exhaust.svg"
+  },
+  
+  {
+    "title": "Steering & Suspension",
+    "description": "",
+    "icon": "img/icons/steering.svg"
+  },
+  {
+    "title": "Batteries",
+    "description": "",
+    "icon": "img/icons/battery.svg"
+  },
+  {
+    "title": "Break Systems",
+    "description": "",
+    "icon": "img/icons/brakes.svg"
+  }
+]
